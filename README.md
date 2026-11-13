@@ -1,4 +1,4 @@
-# Task 1: Comparative Somatic Mutation Analysis
+ Comparative Somatic Mutation Analysis
 
 ## Objective
 Comparative analysis of somatic mutations in:
